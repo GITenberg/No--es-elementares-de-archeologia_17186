@@ -1,0 +1,40 @@
+_repo: No--es-elementares-de-archeologia_17186
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Barbosa, Inácio de Vilhena
+    alias: Barbosa, Inacio de Vilhena
+    birthdate: 1811
+    deathdate: 1890
+    gutenberg_agent_id: '7206'
+    url: http://www.gutenberg.org/2009/agents/7206
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silva, Joaquim Possidónio Narciso da
+    alias: Silva, Joaquim Possidonio Narciso da
+    birthdate: 1806
+    deathdate: 1896
+    gutenberg_agent_id: '7205'
+    url: http://www.gutenberg.org/2009/agents/7205
+description: ''
+gutenberg_bookshelf:
+- Anthropology
+- PT Ciência e Técnica
+gutenberg_issued: '2005-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17186'
+  lccn: '31003020'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CC'
+- !lcsh 'Architecture -- History'
+- !lcsh 'Archaeology'
+title: Noções elementares de archeologia
+url: http://www.gutenberg.org/ebooks/17186
